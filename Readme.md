@@ -3,7 +3,7 @@
 
 ## Renseignements
 
-Etudiants :
+Etudiant :
 
 * Leroy 		Cassandre
 
